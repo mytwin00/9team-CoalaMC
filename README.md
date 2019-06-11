@@ -20,21 +20,31 @@ Visual studio 2017을 실행시켜 빈 프로젝트로 새로운 프로젝트를
 # 기본기능을 제공하는 함수
 -------------------------------
 void mini1(int x, int y, int z);
+<br>
 void air1(int x, int y, int z);
+<br>
 void moon1(int x, int y, int z);
+<br>
 void moon2(int x, int y, int z);
+<br>
 void win1(int x, int y, int z);
+<br>
 void ggot(int x, int y, int z);
+<br>
 void ggot1(int x, int y, int z);
+<br>
 void ggot2(int x, int y, int z);
+<br>
 void ggot3(int x, int y, int z);
+<br>
 void ggot4(int x, int y, int z);
-void ggot5(int x, int y, int z);
-void garo(int x, int y, int z);
-void jotna(int x, int y, int z);
-void jotnaair(int x, int y, int z);
-void saee(int x, int y, int z);
-void saee1(int x, int y, int z);
+<br>
+void ggot5(int x, int y, int z);<br>
+void garo(int x, int y, int z);<br>
+void jotna(int x, int y, int z);<br>
+void jotnaair(int x, int y, int z);<br>
+void saee(int x, int y, int z);<br>
+void saee1(int x, int y, int z);<br>
 
 # 기본기능을 사용한 함수
 -------------------------
