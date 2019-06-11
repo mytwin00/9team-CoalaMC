@@ -48,11 +48,11 @@ void saee1(int x, int y, int z);<br>
 
 # 기본기능을 사용한 함수
 -------------------------
-void MODU1(int x, int y, int z);
-void MODU2(int x, int y, int z);
-void MODU3(int x, int y, int z);
-void MODU4(int x, int y, int z);
-void MODU5(int x, int y, int z);
+void MODU1(int x, int y, int z);<br>
+void MODU2(int x, int y, int z);<br>
+void MODU3(int x, int y, int z);<br>
+void MODU4(int x, int y, int z);<br>
+void MODU5(int x, int y, int z);<br>
 
 # 유튜브 영상
 -------------------------------
